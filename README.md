@@ -1,2 +1,5 @@
+# Microsoft Excel
+The data analyst course at CareerFoundry was project-based. For starting the course, I did the following project: 
 # GameCo
-Project at CareerFoundry for starting the Data Analytics Journey
+## Objective
+
