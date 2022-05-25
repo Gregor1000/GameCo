@@ -13,9 +13,9 @@ CSV file from [VGChartz](https://www.vgchartz.com/)
 ## Presentation of findings
 The findings were presented via an [PDF-Report](https://github.com/Gregor1000/GameCo/blob/6e85211bfd4522dbb10b32c27ec5a6e5b24b13a6/GameCo%20Final%20Project%20Presentation.pdf)
 ## CareerFoundry Course Learnings
-+ Access, sort and filter data
++ Access, Sort and Filter Data
 + Build Pivot Table
-+ Cleaning your data
-+ Grouping & Summarizing your data
++ Cleaning your Data
++ Grouping & Summarizing your Data
 + Descriptive Analysis
-+ Build bar and column charts, box and whisker plots, and scatter plots
++ Build Bar and Column Charts, Box and Whisker Plots, and Scatter Plots
